@@ -345,7 +345,7 @@
       "7.12":"y"
     }
   },
-  "notes":"",
+  "notes":"IE and Edge don't support rel=noopener, but rel=noreferrer has the side effect of blocking window.opener. So rel=\"noopener noreferrer\" will work in more browsers.",
   "notes_by_num":{
     
   },
